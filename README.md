@@ -7,3 +7,4 @@ WildBurny — учебный REST API для согласования заяво
 
 - [Паспорт проекта](PROJECT.md)
 - [Требования безопасности](SECURITY_REQUIREMENTS.md)
+- [Модель угроз](THREAT_MODEL.md)
